@@ -8,7 +8,7 @@ My coding style may become oddly compact and padded with increasingly nested fun
 
 I called myself ATOR after the first project I obsessed over, and see no reason to change. I still love the ideas that were part of the game, and perhaps someday will use them again.
 
-
+Mastodon: [@ator@tech.lgbt](https://tech.lgbt/@ator)
 
 <!--
 **ator-dev/ator-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
