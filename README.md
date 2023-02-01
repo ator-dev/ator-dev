@@ -2,9 +2,9 @@
 
 hey
 
-I'm a student who loves software, interacting, and open source communities. Projects are vital to me, and I always care about the code I write. Mark My Search is my first fully developed software and the project I am most proud of.
+I'm a student who loves software, interactions, and open source communities. Projects are vital to me, and I always care about the code I write. Mark My Search is my first fully developed software and the project I am most proud of.
 
-My coding style may become oddly compact and padded with increasingly nested functional scopes, possibly due to fascination with logical flow. This is limited to personal experimentation; I adapt to the projects I adopt, and take feedback from differing experience.
+My coding style may become oddly compact and padded with increasingly nested functional scopes, possibly indicating fascination with logical flow. This is limited to personal experimentation; I adapt to the projects I adopt, and take feedback from differing experience.
 
 I called myself ATOR after the first project I obsessed over, and see no reason to change. I still love the ideas that were part of the game, and perhaps someday will use them again…
 
