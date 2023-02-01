@@ -2,13 +2,11 @@
 
 hey
 
-I'm a student who loves software, people, and open source communities. Projects are vital to me, and I care about the code I write whether or not it contributes to my passions. Mark My Search is my first fully developed software, an extension built for research but useful in more ways than I dared to imagine.
+I'm a student who loves software, interacting, and open source communities. Projects are vital to me, and I always care about the code I write. Mark My Search is my first fully developed software and the project I am most proud of.
 
-My coding style may become oddly compact and padded with increasingly nested functional scopes, a symptom of fascination with logical flow. This is limited to personal experimentation; I adapt to the projects I adopt, and take feedback from differing experience.
+My coding style may become oddly compact and padded with increasingly nested functional scopes, possibly due to fascination with logical flow. This is limited to personal experimentation; I adapt to the projects I adopt, and take feedback from differing experience.
 
-I called myself ATOR after the first project I obsessed over, and see no reason to change. I still love the ideas that were part of the game, and perhaps someday will use them again.
-
-Mastodon: [@ator@tech.lgbt](https://tech.lgbt/@ator)
+I called myself ATOR after the first project I obsessed over, and see no reason to change. I still love the ideas that were part of the game, and perhaps someday will use them again…
 
 <!--
 **ator-dev/ator-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
