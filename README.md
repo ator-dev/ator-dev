@@ -1,4 +1,4 @@
-### ator-developer
+## ator-developer
 
 hey
 
@@ -8,7 +8,7 @@ My coding style may become oddly compact and padded with increasingly nested fun
 
 I called myself ATOR after the first project I obsessed over, and see no reason to change. I still love the ideas that were part of the game, and perhaps someday will use them again…
 
-## Work outside GitHub (incomplete)
+### Work outside GitHub (incomplete)
 
 - I have done and am doing development work for an awesome Roblox group called [C.N.L.I](https://www.roblox.com/groups/5839988), who are innovating in the nuclear reactor games space.
 
