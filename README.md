@@ -1,14 +1,6 @@
 ## ATOR-developer
 
-I love software, open source communities, and the people who create them. Mark My Search is my first fully developed software and the project I am most proud of.
-
-My coding style may become oddly compact and padded with increasingly nested functional scopes, possibly indicating fascination with logical flow. This is limited to personal experimentation; I adapt to the projects I adopt, and take feedback from differing experience.
-
-I called myself ATOR after the first project I obsessed over, and see no reason to change. I still love the ideas that were part of the game, and perhaps someday will use them again…
-
-### Work outside GitHub (incomplete)
-
-- I have done and am doing development work for an awesome Roblox group called [C.N.L.I](https://www.roblox.com/groups/5839988), who are innovating in the nuclear reactor games space.
+Content to be added soon :)
 
 <!--
 **ator-dev/ator-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
